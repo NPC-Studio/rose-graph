@@ -21,6 +21,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "rose-graph"
+version = "0.1.0"
+dependencies = [
+ "serde",
+]
+
+[[package]]
 name = "serde"
 version = "1.0.149"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -38,13 +45,6 @@ dependencies = [
  "proc-macro2",
  "quote",
  "syn",
-]
-
-[[package]]
-name = "smol-graph"
-version = "0.1.0"
-dependencies = [
- "serde",
 ]
 
 [[package]]

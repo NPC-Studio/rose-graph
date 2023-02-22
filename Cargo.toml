@@ -1,10 +1,10 @@
 [package]
-name = "smol-graph"
+name = "rose-graph"
 version = "0.1.0"
 edition = "2021"
 authors = ["Jonathan Spira <jjspira@gmail.com>"]
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/NPC-Studio/smol-graph"
+repository = "https://github.com/NPC-Studio/rose-graph"
 description = "a small graph, not usable for most projects"
 categories = ["game-development"]
 
