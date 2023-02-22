@@ -2,8 +2,11 @@
 name = "smol-graph"
 version = "0.1.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+authors = ["Jonathan Spira <jjspira@gmail.com>"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/NPC-Studio/smol-graph"
+description = "a small graph, not usable for most projects"
+categories = ["game-development"]
 
 [dependencies]
 serde = { version = "1.0.149", features = ["derive"] }
